@@ -1,0 +1,2 @@
+display flex = horizontal
+dsiplay column = vertical
